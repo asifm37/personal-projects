@@ -17,6 +17,18 @@ Age at the Date of (Default: 29-05-2020): 29-2-2020
 Process finished with exit code 0
 ```
 
+```Output2
+Enter Your Date of Birth (DD-MM-YYYY): 29-5-1992
+Age at the Date of (Default: 29-05-2020): 
+
+ ----------------------------------------- Happy Birthday! ------------------------------------------
+----------------------------------------------- Age ------------------------------------------------
+                                     28 Years, 0 Months, 0 Days                                     
+                                           or 10227 Days                                            
+                                    or 883612800.0 total Seconds                                    
+
+```
+
 Please Give it a try and comment your feedback or cheers.
 
 -- Asif M (asifm37@gmail.com)
